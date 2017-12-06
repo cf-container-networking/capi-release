@@ -69,9 +69,6 @@
 [submodule "src/github.com/cloudfoundry/blobstore_url_signer"]
 	path = src/github.com/cloudfoundry/blobstore_url_signer
 	url = https://github.com/cloudfoundry/blobstore_url_signer
-[submodule "src/cloud_controller_ng"]
-	path = src/cloud_controller_ng
-	url = https://github.com/cloudfoundry/cloud_controller_ng
 [submodule "src/code.cloudfoundry.org/tps"]
 	path = src/code.cloudfoundry.org/tps
 	url = https://github.com/cloudfoundry/tps
@@ -180,3 +177,6 @@
 [submodule "src/code.cloudfoundry.org/diego-logging-client"]
 	path = src/code.cloudfoundry.org/diego-logging-client
 	url = https://github.com/cloudfoundry/diego-logging-client.git
+[submodule "src/cloud_controller_ng"]
+	path = src/cloud_controller_ng
+	url = https://github.com/cf-container-networking/cloud_controller_ng
